@@ -1,6 +1,6 @@
 ![Docusaurus Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/docusaurus.svg)
 
-# Docusaurus Example
+# Esse diretotio é teste
 
 This directory is a brief example of a [Docusaurus](https://docusaurus.io/) site that can be deployed with Vercel and zero configuration.
 
@@ -20,7 +20,7 @@ To get started with Docusaurus for deployment with Vercel, you can use the [Docu
 $ docusaurus-init
 ```
 
-### Deploying From Your Terminal
+### Teste
 
 You can deploy your new Docusaurus project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
 
